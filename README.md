@@ -1,4 +1,9 @@
-### Hi there 👋
+## Blogs
+
+- [Zenn](https://zenn.dev/snowcait)
+- [Qiita](https://qiita.com/SnowCait)
+- [雪猫ノート](http://blog.snowcait.info/)
+- [雪猫.log](http://snowcait.hatenablog.jp/)
 
 <!--
 **SnowCait/SnowCait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
