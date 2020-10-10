@@ -2,6 +2,7 @@
 
 ### Hobby
 
+- [snow-actions](https://github.com/snow-actions) - GitHub Actions
 - [@PrimeVideo_New](https://twitter.com/PrimeVideo_New) - Prime Video 新着 BOT
 - [Mevy](http://mevy.azurewebsites.net/) - Twitter クライアント（公開終了）
 
