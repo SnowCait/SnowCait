@@ -10,7 +10,8 @@
 ### Job
 
 - Social Game Developer
-  - PHP Server Engineer
+  - PHP
+  - CI/CD
 
 ### Knowledge
 
