@@ -1,3 +1,21 @@
+## Works
+
+### Hobby
+
+- [@PrimeVideo_New](https://twitter.com/PrimeVideo_New) - Prime Video 新着 BOT
+- [Mevy](http://mevy.azurewebsites.net/) - Twitter クライアント（公開終了）
+
+### Job
+
+- Social Game Developer
+  - PHP Server Engineer
+
+### Knowledge
+
+- [`*-notes`](https://github.com/SnowCait?tab=repositories&q=notes&type=&language=) repositories
+  - [game-development-notes](https://github.com/SnowCait/game-development-notes)
+  - [git-notes](https://github.com/SnowCait/git-notes)
+
 ## Blogs
 
 - [Zenn](https://zenn.dev/snowcait)
