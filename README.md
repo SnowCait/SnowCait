@@ -1,4 +1,4 @@
-## Works
+## :video_game: Works
 
 ### Hobby
 
@@ -19,7 +19,7 @@
   - [game-development-notes](https://github.com/SnowCait/game-development-notes)
   - [git-notes](https://github.com/SnowCait/git-notes)
 
-## Blogs
+## :memo: Blogs
 
 - [Zenn](https://zenn.dev/snowcait)
 - [Qiita](https://qiita.com/SnowCait)
