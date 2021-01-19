@@ -17,7 +17,7 @@
 
 - [`*-notes`](https://github.com/SnowCait?tab=repositories&q=notes&type=&language=) repositories
   - [game-development-notes](https://github.com/SnowCait/game-development-notes)
-  - [git-notes](https://github.com/SnowCait/git-notes)
+  - [git-notes](https://github.com/SnowCait/git-notes) ([GitHub Actions](https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md))
 
 ## :memo: Blogs
 
