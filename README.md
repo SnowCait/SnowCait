@@ -10,8 +10,8 @@
 ### Job
 
 - Social Game Developer
-  - PHP
-  - CI/CD
+  - API Server: PHP
+  - CI/CD: Jenkins
 
 ### Knowledge
 
