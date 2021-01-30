@@ -10,7 +10,7 @@
 ### Job
 
 - Social Game Developer
-  - API Server: PHP
+  - API Server: PHP, MySQL, Memcache, Redis
   - CI/CD: Jenkins
 
 ### Knowledge
