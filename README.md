@@ -5,6 +5,7 @@
 - [snow-actions](https://github.com/snow-actions) - GitHub Actions
 - [@PrimeVideo_New](https://twitter.com/PrimeVideo_New) - Prime Video 新着 BOT
 - [Twitter API Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
+- [GitHub's REST API Swagger UI](https://snowcait.github.io/rest-api-description/)
 - [Mevy](http://mevy.azurewebsites.net/) - Twitter クライアント（公開終了）
 
 ### Job
