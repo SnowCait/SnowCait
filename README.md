@@ -19,13 +19,11 @@
 - [`*-notes`](https://github.com/SnowCait?tab=repositories&q=notes&type=&language=) repositories
   - [game-development-notes](https://github.com/SnowCait/game-development-notes)
   - [git-notes](https://github.com/SnowCait/git-notes) ([GitHub Actions](https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md))
-
-## :memo: Blogs
-
-- [Zenn](https://zenn.dev/snowcait)
-- [Qiita](https://qiita.com/SnowCait)
-- [雪猫ノート](http://blog.snowcait.info/)
-- [雪猫.log](http://snowcait.hatenablog.jp/)
+- Blogs
+  - [Zenn](https://zenn.dev/snowcait)
+  - [Qiita](https://qiita.com/SnowCait) (deprecated)
+  - [雪猫ノート](http://blog.snowcait.info/)
+  - [雪猫.log](http://snowcait.hatenablog.jp/)
 
 <!--
 **SnowCait/SnowCait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
