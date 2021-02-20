@@ -1,3 +1,9 @@
+## :snowflake: About me
+
+### Favorites
+
+Comic, Novel, Anime, Game, Programming
+
 ## :video_game: Works
 
 ### Hobby
