@@ -12,6 +12,7 @@ Comic, Novel, Anime, Game, Programming
 - [@PrimeVideo_New](https://twitter.com/PrimeVideo_New) - Prime Video 新着 BOT
 - [Twitter API Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
 - [GitHub's REST API Swagger UI](https://snowcait.github.io/rest-api-description/)
+- [ジャンプ作家日記](https://snowcait.github.io/jump-author-comment/)
 - [Mevy](http://mevy.azurewebsites.net/) - Twitter クライアント（公開終了）
 
 ### Job
