@@ -4,6 +4,14 @@
 
 Comic, Novel, Anime, Game, Programming
 
+### Skills
+
+|Lang, Category||
+|---|---|
+|PHP|
+|MySQL|
+|Infra|
+
 ## :video_game: Works
 
 ### Hobby
