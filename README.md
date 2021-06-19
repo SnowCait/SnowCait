@@ -4,6 +4,18 @@
 
 Comic, Novel, Anime, Game, Programming
 
+### Skills
+
+- GitHub Actions
+- Jenkins
+- PHP
+- MySQL, Aurora
+- Memcache
+- Redis
+- Docker, Docker Compose
+- Terraform
+- Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
+
 ## :video_game: Works
 
 ### Hobby
