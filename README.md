@@ -9,12 +9,21 @@ Comic, Novel, Anime, Game, Programming
 - GitHub Actions
 - Jenkins
 - PHP
+- JavaScript, TypeScript
 - MySQL, Aurora
 - Memcache
 - Redis
 - Docker, Docker Compose
 - Terraform
+- Packer
 - Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
+
+### Can use
+
+- C#, WinRT
+- C++
+- Ansible
+- VirtualBox
 
 ## :video_game: Works
 
