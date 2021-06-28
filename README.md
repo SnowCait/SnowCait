@@ -2,8 +2,9 @@
 
 ### Favorites
 
-Comic, Novel, Anime, Game, Programming (CI/CD)  
-Loved Metro UI (Windows Phone)
+- Comic, Novel, Anime, Game
+- Programming (CI/CD)
+- Metro UI (Windows Phone)
 
 ### Skills
 
