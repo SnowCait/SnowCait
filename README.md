@@ -12,9 +12,7 @@
 - Jenkins
 - PHP
 - JavaScript, TypeScript
-- MySQL, Aurora
-- Memcache
-- Redis
+- MySQL, Aurora, Memcache, Redis
 - Docker, Docker Compose
 - Terraform
 - Packer
@@ -26,6 +24,7 @@
 - C++
 - Ansible
 - VirtualBox
+- Vagrant
 
 ## :video_game: Works
 
