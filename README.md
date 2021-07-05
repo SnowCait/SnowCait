@@ -8,8 +8,7 @@
 
 ### Skills
 
-- GitHub Actions
-- Jenkins
+- CI/CD (GitHub Actions, Jenkins)
 - PHP
 - JavaScript, TypeScript
 - MySQL, Aurora, Memcache, Redis
