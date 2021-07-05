@@ -6,14 +6,16 @@
 - Programming, CI/CD
 - Metro UI (Windows Phone)
 
-### Skills
+### Skills, Tools
 
 - CI/CD (GitHub Actions, Jenkins)
-- PHP
+- PHP (PhpStorm)
 - MySQL, Aurora, Memcache, Redis
+- AWS EC2, S3, IAM, etc
 - Docker, Docker Compose
 - Terraform
 - Packer
+- Mackerel, Kibana
 - Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
 
 ### Can use
