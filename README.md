@@ -10,7 +10,6 @@
 
 - CI/CD (GitHub Actions, Jenkins)
 - PHP
-- JavaScript, TypeScript
 - MySQL, Aurora, Memcache, Redis
 - Docker, Docker Compose
 - Terraform
@@ -19,6 +18,7 @@
 
 ### Can use
 
+- JavaScript, TypeScript
 - C#, WinRT
 - C++
 - Ansible
