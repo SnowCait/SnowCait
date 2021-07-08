@@ -27,6 +27,11 @@
 - VirtualBox
 - Vagrant
 
+### Interested in
+
+- CI/CD
+- DX
+
 ## :video_game: Works
 
 ### Hobby
