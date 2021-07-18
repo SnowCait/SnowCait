@@ -3,7 +3,7 @@
 ### Favorites
 
 - Comic, Novel, Anime, Game
-- Programming, CI/CD
+- Programming, CI/CD, DX (Developer Experience)
 - Metro UI (Windows Phone)
 
 ### Skills, Tools
@@ -26,11 +26,6 @@
 - Ansible
 - VirtualBox
 - Vagrant
-
-### Interested in
-
-- CI/CD
-- DX
 
 ## :video_game: Works
 
