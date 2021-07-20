@@ -10,6 +10,7 @@
 
 - CI/CD (GitHub Actions, Jenkins)
 - PHP (PhpStorm)
+- Shell script
 - MySQL, Aurora, Memcache, Redis
 - AWS EC2, S3, IAM, etc
 - Docker, Docker Compose
