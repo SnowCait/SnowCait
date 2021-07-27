@@ -20,7 +20,6 @@
   - AWS EC2, S3, IAM, etc
   - Docker, Docker Compose
   - Terraform, Packer
-- Monitoring
   - Mackerel, Kibana
 - OS
   - Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
