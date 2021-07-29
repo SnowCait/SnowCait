@@ -6,6 +6,7 @@
 - Programming, CI/CD
 - 効率化、コスト削減
 - Metro UI (Windows Phone)
+- Simple is best
 
 ### Skills, Tools
 
