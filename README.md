@@ -25,6 +25,8 @@
   - Mackerel, Kibana
 - OS
   - Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
+- Management
+  - Schedule
 
 ### Can use
 
