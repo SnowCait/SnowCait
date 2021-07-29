@@ -3,7 +3,8 @@
 ### Favorites
 
 - Comic, Novel, Anime, Game
-- Programming, CI/CD, Developer Experience
+- Programming, CI/CD
+- 効率化、コスト削減
 - Metro UI (Windows Phone)
 
 ### Skills, Tools
