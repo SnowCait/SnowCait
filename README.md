@@ -52,7 +52,7 @@
 
 - Social Game Developer since 2011
   - API Server: PHP, MySQL, Memcache, Redis
-  - CI/CD: Jenkins
+  - CI/CD: GitHub Actions, Jenkins
 
 ### Knowledge
 
