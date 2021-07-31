@@ -23,7 +23,8 @@
   - Docker, Docker Compose
   - Terraform, Packer
   - Mackerel, Kibana
-- OS
+- Version Control System, OS
+  - Git, GitHub (GHES)
   - Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
 - Management
   - Schedule
