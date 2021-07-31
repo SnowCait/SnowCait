@@ -29,7 +29,8 @@
 - Management
   - Schedule
 
-### Can use
+<details>
+  <summary>Other (Can use)</summary>
 
 - JavaScript, TypeScript
 - C#, WinRT
@@ -37,6 +38,8 @@
 - Ansible
 - VirtualBox
 - Vagrant
+
+</details>
 
 ## :video_game: Works
 
