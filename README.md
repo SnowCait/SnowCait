@@ -28,6 +28,7 @@
   - Windows, Mac, Linux (Amazon Linux, CentOS, Ubuntu)
 - Management
   - Schedule
+  - Jira, Redmine, GitHub
 
 <details>
   <summary>Other (Can use)</summary>
