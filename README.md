@@ -15,7 +15,7 @@
   - Jenkins
 - App
   - PHP (PhpStorm)
-  - Shell script
+  - Bash
   - MySQL, Aurora, Memcache, Redis
   - Swagger
 - Infra
