@@ -11,16 +11,18 @@
 ### Skills, Tools
 
 - CI/CD
-  - GitHub Actions
+  - **GitHub Actions**
   - Jenkins
 - App
   - PHP (PhpStorm)
+  - Node.js
   - Bash
   - MySQL, Aurora, Memcache, Redis
   - Swagger
+  - **Serverless (Serverless Framework, AWS)**
 - Infra
   - AWS EC2, S3, IAM, etc
-  - Docker, Docker Compose
+  - **Docker, Docker Compose**
   - Terraform, Packer
   - Mackerel, Kibana
 - Version Control System, OS
