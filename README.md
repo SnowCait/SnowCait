@@ -19,9 +19,9 @@
   - Bash
   - MySQL, Aurora, Memcache, Redis
   - Swagger
-  - **Serverless (Serverless Framework, AWS)**
 - Infra
   - AWS EC2, S3, IAM, etc
+  - **Serverless (Serverless Framework, AWS)**
   - **Docker, Docker Compose**
   - Terraform, Packer
   - Mackerel, Kibana
