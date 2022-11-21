@@ -37,6 +37,7 @@
 
 - JavaScript, TypeScript
 - C#, WinRT
+- Go
 - C++
 - Ansible
 - VirtualBox
