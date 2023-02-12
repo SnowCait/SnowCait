@@ -19,7 +19,7 @@
   - Bash
   - MySQL, Aurora, Memcache, Redis
   - Swagger
-- Infra
+- Infrastructure
   - AWS EC2, S3, IAM, etc
   - **Serverless (Serverless Framework, AWS)**
   - **Docker, Docker Compose**
