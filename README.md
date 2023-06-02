@@ -73,8 +73,8 @@
 - Blogs
   - [Zenn](https://zenn.dev/snowcait)
   - [Qiita](https://qiita.com/SnowCait) (deprecated)
-  - [雪猫ノート](http://blog.snowcait.info/)
-  - [雪猫.log](http://snowcait.hatenablog.jp/)
+  - [雪猫ノート](http://blog.snowcait.info/) (deprecated)
+  - [雪猫.log](http://snowcait.hatenablog.jp/) (deprecated)
 
 <!--
 **SnowCait/SnowCait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
