@@ -4,7 +4,7 @@
 
 - Comic, Novel, Anime, Game
 - Programming, CI/CD
-- 効率化、コスト削減
+- Optimization, Cost reduction
 - Metro UI (Windows Phone)
 - Simple is best
 
