@@ -50,10 +50,13 @@
 ### Hobby
 
 - [snow-actions](https://github.com/snow-actions) - GitHub Actions
-- [@PrimeVideo_New](https://twitter.com/PrimeVideo_New) - Prime Video 新着 BOT
+  - [snow-actions/setup-jenkins](https://github.com/snow-actions/setup-jenkins)
+  - [snow-actions/tweet](https://github.com/snow-actions/tweet)
+- [nostter](https://github.com/SnowCait/nostter) - Nostr web client
 - [Twitter API Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
 - [GitHub's REST API Swagger UI](https://snowcait.github.io/rest-api-description/)
 - [ジャンプ作家日記](https://snowcait.github.io/jump-author-comment/)
+- [@PrimeVideo_New](https://twitter.com/PrimeVideo_New) - Prime Video 新着 BOT （停止）
 - [Mevy](http://mevy.azurewebsites.net/) - Twitter クライアント（公開終了）
 
 ### Job
