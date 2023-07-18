@@ -52,7 +52,14 @@
 - [snow-actions](https://github.com/snow-actions) - GitHub Actions
   - [snow-actions/setup-jenkins](https://github.com/snow-actions/setup-jenkins)
   - [snow-actions/tweet](https://github.com/snow-actions/tweet)
-- [nostter](https://github.com/SnowCait/nostter) - Nostr web client
+- Nostr
+  - [nostter](https://github.com/SnowCait/nostter) - Nostr web client
+  - [Nostr playground](https://snowcait.github.io/nostr-playground/)
+  - [snow-actions/nostr](https://github.com/snow-actions/nostr)
+  - Bots
+    - [@日本人ユーザー (bot)](https://nostter.vercel.app/JapaneseUsers@snowcait.github.io)
+    - [@search](https://nostter.vercel.app/search@SnowCait.github.io)
+    - [@REQ](https://nostter.vercel.app/REQ@snowcait.github.io)
 - [Twitter API Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
 - [GitHub's REST API Swagger UI](https://snowcait.github.io/rest-api-description/)
 - [ジャンプ作家日記](https://snowcait.github.io/jump-author-comment/)
