@@ -47,6 +47,8 @@
 
 ## :video_game: Works
 
+[![SnowCait's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowCait)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hobby
 
 - [snow-actions](https://github.com/snow-actions) - GitHub Actions
