@@ -15,7 +15,8 @@
   - Jenkins
 - App
   - PHP (PhpStorm)
-  - Node.js
+  - JavaScript, TypeScript, **Svelte**
+  - Node.js, **Deno**
   - Bash
   - MySQL, Aurora, Memcache, Redis
   - Swagger
